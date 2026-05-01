@@ -1,5 +1,5 @@
 title: Philip Daoud
-logo: ./assets/img/profile.png  # Path to your photo if you have one
+logo: assets/img/profile.png  # Path to your photo if you have one
 description: Software Developer | UI/UX Enthusiast | Open Source Contributor
 show_downloads: true
 theme: jekyll-architect-theme
