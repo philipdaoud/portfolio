@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 👋 About Me
-I'm a developer based in [Location]. I love building tools that make people's lives easier.
+I'm a developer based in [Location]. I love building tools that make people's lives easier......
 
 ## 🚀 Featured Projects
 
